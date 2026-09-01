@@ -1,0 +1,7 @@
+Indicator,Variable,N,Yes,No,Yes (%)
+Financial institution account,account_fin,1000,456,544,45.6
+Mobile money account,account_mob,1000,818,182,81.8
+Any financial account,account,1000,843,157,84.3
+Digital account,dig_account,1000,826,174,82.6
+Borrowed money,borrowed,1000,746,254,74.6
+Saved money,saved,1000,837,163,83.7

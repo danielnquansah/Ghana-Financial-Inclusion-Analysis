@@ -1,0 +1,7 @@
+Indicator,Variable,Weighted yes (%)
+Financial institution account,account_fin,38.7
+Mobile money account,account_mob,78.3
+Any financial account,account,81.2
+Digital account,dig_account,79.3
+Borrowed money,borrowed,74.2
+Saved money,saved,82.0

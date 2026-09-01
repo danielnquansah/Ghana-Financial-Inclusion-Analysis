@@ -1,0 +1,91 @@
+Grouping,Group,Indicator,Variable,Percentage (%)
+Gender code,1.0,Financial institution account,account_fin,37.2
+Gender code,2.0,Financial institution account,account_fin,53.6
+Gender code,1.0,Mobile money account,account_mob,79.1
+Gender code,2.0,Mobile money account,account_mob,84.4
+Gender code,1.0,Any financial account,account,81.7
+Gender code,2.0,Any financial account,account,86.7
+Gender code,1.0,Digital account,dig_account,79.9
+Gender code,2.0,Digital account,dig_account,85.2
+Gender code,1.0,Borrowed money,borrowed,72.5
+Gender code,2.0,Borrowed money,borrowed,76.6
+Gender code,1.0,Saved money,saved,81.3
+Gender code,2.0,Saved money,saved,86.0
+Income quintile,1.0,Financial institution account,account_fin,24.8
+Income quintile,2.0,Financial institution account,account_fin,32.5
+Income quintile,3.0,Financial institution account,account_fin,42.1
+Income quintile,4.0,Financial institution account,account_fin,46.8
+Income quintile,5.0,Financial institution account,account_fin,68.4
+Income quintile,1.0,Mobile money account,account_mob,67.3
+Income quintile,2.0,Mobile money account,account_mob,73.4
+Income quintile,3.0,Mobile money account,account_mob,79.8
+Income quintile,4.0,Mobile money account,account_mob,88.2
+Income quintile,5.0,Mobile money account,account_mob,92.4
+Income quintile,1.0,Any financial account,account,69.7
+Income quintile,2.0,Any financial account,account,76.9
+Income quintile,3.0,Any financial account,account,82.5
+Income quintile,4.0,Any financial account,account,90.0
+Income quintile,5.0,Any financial account,account,94.7
+Income quintile,1.0,Digital account,dig_account,67.9
+Income quintile,2.0,Digital account,dig_account,74.6
+Income quintile,3.0,Digital account,dig_account,80.9
+Income quintile,4.0,Digital account,dig_account,89.1
+Income quintile,5.0,Digital account,dig_account,92.8
+Income quintile,1.0,Borrowed money,borrowed,75.8
+Income quintile,2.0,Borrowed money,borrowed,79.3
+Income quintile,3.0,Borrowed money,borrowed,73.2
+Income quintile,4.0,Borrowed money,borrowed,73.6
+Income quintile,5.0,Borrowed money,borrowed,72.6
+Income quintile,1.0,Saved money,saved,76.4
+Income quintile,2.0,Saved money,saved,77.5
+Income quintile,3.0,Saved money,saved,78.1
+Income quintile,4.0,Saved money,saved,88.6
+Income quintile,5.0,Saved money,saved,92.0
+Education code,1.0,Financial institution account,account_fin,22.3
+Education code,2.0,Financial institution account,account_fin,45.8
+Education code,3.0,Financial institution account,account_fin,97.4
+Education code,,Financial institution account,account_fin,50.0
+Education code,1.0,Mobile money account,account_mob,64.4
+Education code,2.0,Mobile money account,account_mob,86.1
+Education code,3.0,Mobile money account,account_mob,99.1
+Education code,,Mobile money account,account_mob,50.0
+Education code,1.0,Any financial account,account,67.4
+Education code,2.0,Any financial account,account,88.5
+Education code,3.0,Any financial account,account,100.0
+Education code,,Any financial account,account,100.0
+Education code,1.0,Digital account,dig_account,65.2
+Education code,2.0,Digital account,dig_account,87.1
+Education code,3.0,Digital account,dig_account,99.1
+Education code,,Digital account,dig_account,50.0
+Education code,1.0,Borrowed money,borrowed,73.1
+Education code,2.0,Borrowed money,borrowed,75.2
+Education code,3.0,Borrowed money,borrowed,75.0
+Education code,,Borrowed money,borrowed,50.0
+Education code,1.0,Saved money,saved,73.1
+Education code,2.0,Saved money,saved,85.6
+Education code,3.0,Saved money,saved,97.4
+Education code,,Saved money,saved,100.0
+Employment code,1.0,Financial institution account,account_fin,56.2
+Employment code,2.0,Financial institution account,account_fin,14.6
+Employment code,1.0,Mobile money account,account_mob,86.9
+Employment code,2.0,Mobile money account,account_mob,66.9
+Employment code,1.0,Any financial account,account,89.3
+Employment code,2.0,Any financial account,account,69.7
+Employment code,1.0,Digital account,dig_account,87.5
+Employment code,2.0,Digital account,dig_account,68.1
+Employment code,1.0,Borrowed money,borrowed,78.3
+Employment code,2.0,Borrowed money,borrowed,63.8
+Employment code,1.0,Saved money,saved,89.4
+Employment code,2.0,Saved money,saved,66.9
+Urbanicity code,1.0,Financial institution account,account_fin,42.6
+Urbanicity code,2.0,Financial institution account,account_fin,49.1
+Urbanicity code,1.0,Mobile money account,account_mob,77.6
+Urbanicity code,2.0,Mobile money account,account_mob,86.7
+Urbanicity code,1.0,Any financial account,account,80.0
+Urbanicity code,2.0,Any financial account,account,89.3
+Urbanicity code,1.0,Digital account,dig_account,78.0
+Urbanicity code,2.0,Digital account,dig_account,88.0
+Urbanicity code,1.0,Borrowed money,borrowed,76.3
+Urbanicity code,2.0,Borrowed money,borrowed,72.6
+Urbanicity code,1.0,Saved money,saved,83.5
+Urbanicity code,2.0,Saved money,saved,83.9
